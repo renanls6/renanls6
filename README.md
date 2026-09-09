@@ -1,7 +1,7 @@
 Olá, eu sou o Renan! 👋
 🚀 Sobre mim
 
-Sou Desenvolvedor Júnior Python e tenho interesse por tecnologia desde muito novo. Em 2024, comecei a me dedicar mais à área de forma autodidata, estudando programação e buscando colocar o conhecimento em prática através de projetos.
+Sou Desenvolvedor Python Júnior e tenho interesse por tecnologia desde muito novo. Em 2024, comecei a me dedicar mais à área de forma autodidata, estudando programação e buscando colocar o conhecimento em prática através de projetos.
 
 Em 2026, comecei a desenvolver soluções para empresas, principalmente com foco em automação de processos, análise e tratamento de dados, sempre buscando tornar tarefas mais simples, rápidas e produtivas.
 
