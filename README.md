@@ -1,17 +1,18 @@
-# Olá, eu sou o Renan! 👋
+# Olá, eu sou o Renan!👋
 
-## 🚀 Sobre mim
+## Sobre mim
+Sou Desenvolvedor Python Júnior, com foco em programação, análise de dados e desenvolvimento de soluções práticas.
 
-Sou desenvolvedor de software especializado em **Automação de Processos, Engenharia de Dados e Inteligência Artificial**. Minha paixão é transformar tarefas repetitivas em soluções automatizadas e converter grandes volumes de dados em informações estratégicas para apoiar decisões de negócio.
+Atualmente curso Análise e Desenvolvimento de Sistemas na UniCesumar e venho aprimorando meus conhecimentos em Python, análise de dados, automação e desenvolvimento de software.
 
-Atuo no desenvolvimento de sistemas utilizando Python, integrações entre plataformas, pipelines de dados, dashboards interativos e aplicações orientadas à produtividade. Busco criar soluções robustas, escaláveis e fáceis de manter, sempre com foco em gerar valor para empresas e pessoas.
+Tenho interesse em transformar problemas reais em soluções simples e eficientes, utilizando programação, dados e tecnologia para desenvolver aplicações e ferramentas úteis.
 
 ---
 
-## 💼 O que faço
+##  O que faço
 
-* 🤖 Desenvolvimento de automações com Python e RPA
-* 📊 Criação de dashboards e soluções de Business Intelligence
+* 🤖 Desenvolvimento de aplicações e scripts com Python
+* 📊 Análise, tratamento e visualização de dados
 * ⚡ Construção de pipelines ETL e integração de dados
 * 🌐 Desenvolvimento e consumo de APIs REST
 * 📈 Análise e visualização de dados para tomada de decisão
@@ -19,19 +20,18 @@ Atuo no desenvolvimento de sistemas utilizando Python, integrações entre plata
 
 ---
 
-## 🌱 Atualmente
+##  Atualmente
 
-💻 Desenvolvendo soluções voltadas para automação, análise de dados e Inteligência Artificial.
+Atualmente estou desenvolvendo projetos voltados para Python, análise de dados, automação e programação.
 
-🧠 Estudando arquitetura de software, agentes de IA, engenharia de dados, computação em nuvem e aplicações com Large Language Models (LLMs).
+Estou aprimorando meus conhecimentos em Python, Machine Learning, Deep Learning, Redes, SSH e Cibersegurança, além de SQL, APIs e bancos de dados.
 
-🤝 Aberto a colaborar em projetos open source, ferramentas para desenvolvedores e soluções que utilizem automação e IA.
+Também busco fortalecer meus conhecimentos em boas práticas de programação, desenvolvimento de software e resolução de problemas.
 
-💬 Pergunte-me sobre Python, automação de processos, ETL, APIs, Dashboards, Google Apps Script, análise de dados e Inteligência Artificial.
-
+Estou aberto a colaborar em projetos, compartilhar conhecimento e aprender com outros desenvolvedores.
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Linguagens
 
@@ -75,14 +75,16 @@ Atuo no desenvolvimento de sistemas utilizando Python, integrações entre plata
 
 ---
 
-## 📌 Áreas de atuação
+## Áreas de atuação
 
 | Área | Área |
 |:---:|:---:|
-| Automação de Processos | Engenharia de Dados |
-| Dashboards Executivos | Business Intelligence |
-| Integração de Sistemas | APIs e Webhooks |
+| Desenvolvimento Python | Análise de Dados|
+| Automação de Processos| Business Intelligence |
+| Integração de Sistemas | APIs e Webhooks|
 | Inteligência Artificial | Desenvolvimento Backend |
+| Machine Learning| Desenvolvimento Backend |
+| Bancos de Dados | Cibersegurança |
 
 ---
 
