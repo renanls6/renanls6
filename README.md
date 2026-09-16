@@ -29,6 +29,7 @@ Estou aprimorando meus conhecimentos em Python, Machine Learning, Deep Learning,
 Também busco fortalecer meus conhecimentos em boas práticas de programação, desenvolvimento de software e resolução de problemas.
 
 Estou aberto a colaborar em projetos, compartilhar conhecimento e aprender com outros desenvolvedores.
+
 ---
 
 ##  Tecnologias e Ferramentas
